@@ -1,0 +1,12 @@
+*{
+flex-direction: column;
+}
+.trainer-info{
+    transition: 0.5s all;
+    cursor: pointer;
+    text-align: center;
+    align-items: center;
+}
+.trainer-info:hover{
+    background-color: red;
+}
